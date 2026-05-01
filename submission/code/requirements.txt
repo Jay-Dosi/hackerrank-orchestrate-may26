@@ -1,0 +1,12 @@
+langchain
+langchain-google-genai
+langchain-community
+langchain-huggingface
+chromadb
+pandas
+tenacity
+python-dotenv
+unstructured
+markdown
+sentence-transformers
+langchain-groq
